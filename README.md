@@ -19,7 +19,7 @@ I think and sometimes causing slower load of
 script.
 
 Usage:
-- See example.php
+- See index.php
 
 Notes:
 - I'm now about to find a nice way to ensure
